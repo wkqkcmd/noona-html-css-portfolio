@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Gowun Dodum", sans-serif;
+  text-align: center;
+}
+
+.container{
+  max-width: 960px;
+}
+
+i{
+  margin-right: 5px;
+  color: green;
+}
+
+img{
+  width: 600px;
+  height: 500px;
+}
+
+.header{
+  background-color: white;
+}
+
+.main img{
+  height: 350px;
+}
+
+.main h6{
+  font-size: 110%;
+  font-weight: 600;
+}
+
+footer img{
+  width: 115px;
+  height: 40px;
+}
+
+footer{
+  border-top: 1px solid green;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
